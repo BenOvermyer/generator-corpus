@@ -1,0 +1,31 @@
+{
+  "description": "Types of teas",
+  "teas": [
+    "black",
+    "chai",
+    "matcha",
+    "sencha",
+    "oolong",
+    "pu'erh",
+    "chamomile",
+    "chrysanthemum",
+    "hibiscus",
+    "rooibus",
+    "barley",
+    "chaga",
+    "dandelion",
+    "essiac",
+    "green",
+    "nettle",
+    "peppermint",
+    "pau d'arco",
+    "raspberry leaf",
+    "rose",
+    "rosemary",
+    "senna",
+    "spearmint",
+    "white",
+    "yerba mate",
+    "butterfly pea"
+  ]
+}
