@@ -1,7 +1,6 @@
 {
-  "description": "This is meant to describe a dish.",
-  "meat_main_components": ["chicken", "beef", "pork"],
-  "meat_cooking_techniques": [
+  "description": "These are components for use in food description.",
+  "meat cooking techniques": [
     "roasted",
     "slow cooked",
     "shredded",
@@ -11,31 +10,65 @@
     "boiled",
     "seared"
   ],
-  "vegetable_main_components": ["eggplant", "fennel bulb", "broccoli"],
-  "vegetable_cooking_techniques": [
+  "vegetable cooking techniques": [
     "roasted",
     "braised",
     "fried",
     "deep fried",
     "blanched"
   ],
-  "spice_profiles": ["spicy", "salty", "sweet", "sour", "savory", "bitter"],
-  "secondary_components": [
-    "pineapple",
-    "avocado",
-    "carrots",
-    "cauliflower",
-    "broccoli",
-    "corn",
-    "olives",
-    "garlic",
-    "snow peas",
-    "mushrooms"
+  "flavor profiles": ["salty", "sweet", "sour", "savory", "bitter"],
+  "fats": [
+    "olive oil",
+    "duck fat",
+    "pork fat",
+    "avocado oil",
+    "canola oil",
+    "vegetable oil"
   ],
-  "fats": ["olive oil", "duck fat", "pork fat", "avocado oil"],
-  "herbs": ["basil", "parsley", "rosemary", "oregano", "saffron", "thyme"],
-  "spices": ["cardamom", "cinnamon", "coriander", "nutmeg", "ginger", "cloves"],
-  "sweet_fruits": [
+  "herbs": [
+    "anise",
+    "basil",
+    "bay",
+    "burnet",
+    "caraway",
+    "cilantro",
+    "dill",
+    "fennel",
+    "ginseng",
+    "lemongrass",
+    "marjoram",
+    "mint",
+    "parsley",
+    "rosemary",
+    "oregano",
+    "saffron",
+    "sage",
+    "tarragon",
+    "thyme",
+    "tulsi"
+  ],
+  "spices": [
+    "allspice",
+    "cardamom",
+    "cayenne",
+    "chili powder",
+    "cinnamon",
+    "cloves",
+    "coriander",
+    "fenugreek",
+    "galangal",
+    "ginger",
+    "kaffir lime",
+    "lavender",
+    "mace",
+    "mustard",
+    "nutmeg",
+    "black pepper",
+    "white pepper",
+    "turmeric"
+  ],
+  "sweet fruits": [
     "banana",
     "pear",
     "apple",
@@ -73,7 +106,7 @@
     "pomegranate",
     "starfruit"
   ],
-  "citrus_fruits": [
+  "citrus fruits": [
     "lemon",
     "lime",
     "key lime",
@@ -93,10 +126,34 @@
     "muskmelon",
     "watermelon"
   ],
-  "cactus_fruits": [
+  "cactus fruits": [
     "cardón fruit",
     "dragon fruit",
     "prickly pear fruit",
     "saguaro fruit"
+  ],
+  "meat": [
+    "beef",
+    "goat",
+    "lamb",
+    "mutton",
+    "pork",
+    "rabbit",
+    "venison",
+    "wild boar"
+  ],
+  "poultry": [
+    "chicken",
+    "duck",
+    "emu",
+    "goose",
+    "grouse",
+    "guinea hen",
+    "ostrich",
+    "partridge",
+    "pheasant",
+    "quail",
+    "squab",
+    "turkey"
   ]
 }
